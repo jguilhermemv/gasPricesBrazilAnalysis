@@ -19,9 +19,19 @@ This is an experimental project utilizing ChatGPT-4 to assist Test-Driven Develo
 ├── __init__.py
 ├── datasets
 │   └── brazilian_gas_prices_2004-2021.tsv
+├── hands_on_guide.md
 ├── main.py
+├── poetry.lock
 ├── pyproject.toml
 └── src
+    ├── data_analysis.py
+    ├── data_reader.py
+    ├── data_visualization.py
+    └── tests
+        ├── __init__.py
+        ├── test_data_analysis.py
+        ├── test_data_reader.py
+        └── test_data_visualization.py
 ```
 
 ## Setup Instructions
