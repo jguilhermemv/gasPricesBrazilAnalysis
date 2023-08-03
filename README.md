@@ -5,6 +5,9 @@ This is an experimental project utilizing ChatGPT-4 to assist Test-Driven Develo
 ## Requirements
 - Python 3.9+
 - Poetry (Dependency Manager)
+- PyTest (For test development)
+- Pandas (For Data Manipulation)
+- Numpy
 - An instance of ChatGPT-4 (For Test-Driven Development Assistance)
 
 ## Project Structure
