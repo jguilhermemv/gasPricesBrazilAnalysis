@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "gaspricesbrazilanalysis"
+version = "0.1.0"
+description = "This is an experimental project utilizing ChatGPT-4 to assist Test-Driven Development (TDD) in the creation of a software solution. The software is intended to analyze a dataset on Brazilian gas prices using Pandas and Numpy."
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

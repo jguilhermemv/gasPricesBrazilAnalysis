@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: datasets/brazilian_gas_prices_2004-2021.tsv
+  checksum: dfdf78fd9e333a73c40d4bcf893aca25f04a0162fc48673ed6bfa368cc5d3361
+version: "1.0"
